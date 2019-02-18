@@ -1,5 +1,5 @@
 # 職務経歴書
-<img src="./avatar.png" width="200px" />
+<img src="./avatar.jpeg" width="200px" />
 
 |key|value|
 |---|-----|
