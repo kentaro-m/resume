@@ -9,7 +9,7 @@
 |Qiita|[kentaro_m \- Qiita](https://qiita.com/kentaro_m)|
 |Twitter|[@_kentaro_m](https://twitter.com/_kentaro_m)|
 |Portfolio|[Kentaro Matsushita - @kentaro-m](https://kentarom.com/)|
-|Mail|contact@kentarom.com|
+|Mail|kentaro.m811@gmail.com|
 
 ## 概要
 * DMMのサービス全体で利用されるプラットフォームの開発及び運用に従事
