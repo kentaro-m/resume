@@ -1,6 +1,4 @@
 # 職務経歴書
-<img src="./avatar.jpeg" width="200px" />
-
 |key|value|
 |---|-----|
 |Name|松下 健太郎|
@@ -29,78 +27,22 @@
 * 長期的にはサーバーサイドやインフラのスキルを強化し、プロダクトの技術面をリードする存在になれるようステップアップしていきたい
 
 ## 職務経歴
-### 合同会社DMM.com (正社員: 2016/04/01 ~ 現職)
 
-#### プラットフォームリプレイス開発
-* 時期: 2016/07〜2018/07
-* 役割: サーバーサイドエンジニア
-* 技術
-  * Node.js
-  * React.js
-  * Express.js
-  * AWS
-    * ALB
-    * EC2
-    * Kinesis Firehose
-    * Lambda
-    * API Gateway
-    * ElasticSearch Service
-    * CloudFormation
-    * ElastiCache
-  * New Relic
-  * CircleCI
-  * Sentry
-* 担当したこと
-  * Node.jsとExpress.js、React.jsを用いたフロントエンド開発
-  * CloudFormationを用いたインフラ構成のコード化
-  * オートスケーリングを用いた負荷対策
-  * アプリケーションのリリース作業をSlackコマンドで行うサーバーレスアプリケーション構築
-  * ログ基盤及びアプリケーションエラーを通知するサーバーレスアプリケーション構築
-  * New Relicを用いたインフラ監視の導入
-  * チーム内輪読会開催による開発手法の啓蒙活動
-* 工夫したところ
-  * アプリケーションリリース作業をSlackから実施できるようにし、精度の高いリリースを実現した
-  * ログ基盤及びアプリケーションエラーを通知する仕組みを整備し、障害検知と復旧の迅速化を実現した
-  * インフラ監視にNew Relicを導入し、開発者が運用監視しやすい環境を整えた
-  * GitHubのプルリクエストワークフローを改善するBotを導入し、レビューからマージまでの時間を短縮した
-    * [GitHubでのプルリクエスト運用を加速するためにプルリくんというBotを作った話 - Qiita](https://qiita.com/kentaro_m/items/fc79511f463ff51b4d0f)
+### 合同会社DMM GAMES (正社員: 2019/07/11 ~ 現職)
 
-#### Webアプリケーション機能追加及び保守・運用
-* 時期: 2018/07〜現在
+#### ゲームプラットフォーム新規開発
+* 時期: 2019/07〜
+* 役割: フロントエンドエンジニア
+
+ゲームプラットフォームのフロントエンド開発に従事。フロントエンドエンジニアとして、管轄機能のフロントエンドの要件定義や設計、React.jsやTypeScript構成の実装を担当。また、機能チーム内のフロントエンドチームのまとめ役として、プロジェクトの進捗管理やメンバーからの相談対応や他職能との連携の役割を担っている。
+
+### 合同会社DMM.com (正社員: 2016/04/01 ~ 2019/07/10)
+
+#### プラットフォームリプレイス開発及び運用
+* 時期: 2016/07〜2019/07
 * 役割: サーバーサイドエンジニア
-* 技術
-  * Node.js
-  * React.js
-  * Express.js
-  * AWS
-    * ALB
-    * EC2
-    * Kinesis Firehose
-    * Lambda
-    * API Gateway
-    * ElasticSearch Service
-    * CloudFormation
-    * ElastiCache
-  * New Relic
-  * CircleCI
-  * Sentry
-  * Java
-  * Spring Framework
-  * Jenkins
-  * MySQL
-  * Couchbase
-  * Cassandra
-* 行ったこと
-  * Node.jsとExpress.js、React.jsを用いたフロントエンド開発
-  * Spring Frameworkを用いたAPI開発
-  * MySQLテーブル設計及びレビュー
-  * ZenHubを用いたプロダクトバックログ管理
-* 工夫したところ
-  * プロダクトバックログ管理のためにZenHubを導入
-    * 新チームの組成に伴い、スクラム開発で使用するプロジェクト管理ツールの選定と導入を行った。ZenHubを選定したあとは、チームで運用するための指針を作成し、使い方のレクチャーもあわせて行った。
-  * 開発や運用の改善アイデアを収集するBotの開発・導入
-    * Slackから気軽にGitHub Issueを作成できるBotを開発しました。
-    * 週1回Issueについて話し合うMTGがあり、良い改善サイクルができつつある。
+
+認証基盤システムのリプレイスに従事。Webアプリケーションエンジニアとして、Node.js及びReact.js構成でのフロントエンド開発やAWSのインフラ構築、Javaで構築されたAPI改修などを担当。また、Infrastructure as Codeの整備、CI/CDパイプライン整備、監視ツール導入など開発や運用を効率化する仕組み作りもあわせて実施した。
 
 ## 登壇歴
 |Date|Event|Content|
@@ -114,6 +56,10 @@
 * [Go言語初学者がConfluenceをMarkdownで書くためのCLIツールを開発した話 - DMM inside](https://inside.dmm.com/entry/2018/05/28/golang-cli-tool)
 
 ## OSS
+* [kentaro-m/auto-assign-action: 🤖 An action which adds reviewers to the pull request when the pull request is opened.](https://github.com/kentaro-m/auto-assign-action)
+  * GitHubのプルリクエストにレビュアーを自動追加するGitHub Actionです。
+* [kentaro-m/mkissue: 🎫 Create GitHub issues from importing CSV file.](https://github.com/kentaro-m/mkissue)
+  * CSVファイルからGitHub Issueを作成するCLIツールです。
 * [kentaro-m/auto-assign: 🤖 A Probot app that adds reviewers to pull requests when pull requests are opened.](https://github.com/kentaro-m/auto-assign)
   * GitHubのプルリクエストにレビュアーを自動追加するGitHub Appsです。
 * [kentaro-m/md2confl: 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.](https://github.com/kentaro-m/md2confl)
@@ -127,26 +73,42 @@
 * [kentaro-m/zenhub-time-tracker: Keep track of time to move an issue between pipelines and notify the time into Slack.](https://github.com/kentaro-m/zenhub-time-tracker)
   * IssueのZenHubパイプライン間の移動時間を計測・表示をするアプリケーションです。
 
-## プログラミング言語・フレームワーク
-業務経験のあるものを列挙。
+## スキル・経験
 
-* サーバーサイド
+### 言語
+* プロダクションコードを書いた経験がある言語
   * Node.js
   * Java
   * PHP
-* フロントエンド
-  * React.js
-* ミドルウェア
-  * MySQL
-  * Couchbase
-  * Cassandra
-  * Redis
-* モニタリング
-  * New Relic
-  * Zabbix
-* インフラ
-  * AWS
-* その他
-  * CircleCI
-  * Jenkins
-  * Git
+  * JavaScript
+  * TypeScript
+* プライベートで書いている言語
+  * Go
+
+### フレームワーク
+* React.js
+* Express.js
+* Spring Framework
+
+### ミドルウェア
+* MySQL
+* Couchbase
+* Cassandra
+* Redis
+
+### モニタリング
+* New Relic
+* Datadog
+* Zabbix
+
+### インフラ
+* AWS
+  * ALBやEC2、ElastiCacheなどを使用したアプリケーション構築
+  * Kinesis FirehoseとElasticSearch Serviceを使用したログ基盤構築
+  * CloudFormationを使用したInfrastructure as Codeの実践
+
+### その他
+* CircleCI
+* Jenkins
+* Git
+* Sentry
