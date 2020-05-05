@@ -42,6 +42,15 @@
 |2018/10/31|AWS Dev Day Tokyo 2018 LT大会|[DMM.comの認証基盤を支えるエラー通知の仕組み](https://speakerdeck.com/kentarom/aws-dev-day-tokyo-2018-lightning-talk)|
 |2017/09/16|GitHub勉強会 in Kanazawa|[GitHubでのプルリクエストレビューを加速するためにいろいろと作った話](https://speakerdeck.com/kentarom/githubtefalsehururikuesutorehiyuwojia-su-surutameniiroirotozuo-tutahua)|
 
+## コミュニティ
+
+### Kanazawa.js
+金沢近郊のJSerのための地域コミュニティを有志で運営しています。
+
+- [Kanazawa.js Remote Meetup 2を開催しました | Learn Something New](https://blog.kentarom.com/we-have-held-kanazawa-js-remote-meetup-2/)
+- [Kanazawa.js meetup 1を開催しました | Learn Something New](https://blog.kentarom.com/we-have-held-kanazawa-js-meetup-1/)
+
+
 ## ブログ
 * [技術書の輪読会を定着させるまでの道のりで学んだこと - DMM inside](https://inside.dmm.com/entry/2018/10/02/rindokukai)
 * [Go言語初学者がConfluenceをMarkdownで書くためのCLIツールを開発した話 - DMM inside](https://inside.dmm.com/entry/2018/05/28/golang-cli-tool)
