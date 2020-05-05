@@ -36,6 +36,8 @@
 ## 登壇歴
 |Date|Event|Content|
 |----|-----|-------|
+|2020/04/25|[Kanazawa.js Remote Meetup #02](https://speakerdeck.com/kentarom/lets-try-visualizing-your-activity-using-the-github-gist)|[GitHub Gistを使って、アクティビティを可視化しよう](https://speakerdeck.com/kentarom/lets-try-visualizing-your-activity-using-the-github-gist)|
+|2020/01/19|[Kanazawa.js Meetup #01](https://kanazawajs.connpass.com/event/161078/)|[OGP画像を生成するNode.jsのライブラリを作ってみた](https://speakerdeck.com/kentarom/create-a-node-dot-js-module-for-generating-open-graph-image)|
 |2018/11/23|JAWS-UG金沢 #36 x OpsJAWS！ AWS運用・監視についてのクロスイベント！|[AWSの既存サービスを活用して、 障害検知・復旧を迅速化するカラクリ](https://speakerdeck.com/kentarom/jaws-ug-kanazawa-x-opsjaws)|
 |2018/10/31|AWS Dev Day Tokyo 2018 LT大会|[DMM.comの認証基盤を支えるエラー通知の仕組み](https://speakerdeck.com/kentarom/aws-dev-day-tokyo-2018-lightning-talk)|
 |2017/09/16|GitHub勉強会 in Kanazawa|[GitHubでのプルリクエストレビューを加速するためにいろいろと作った話](https://speakerdeck.com/kentarom/githubtefalsehururikuesutorehiyuwojia-su-surutameniiroirotozuo-tutahua)|
