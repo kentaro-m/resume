@@ -88,29 +88,45 @@
   * Go
 
 ### フレームワーク
-* React.js
-* Express.js
-* Spring Framework
+* ユーザー向けのWebアプリケーション構築と運用
+  * Express.js
+  * React.js
+* API保守・運用
+  * Spring Framework
+* ポートフォリオサイトやブログの構築
+  * GatsbyJS
 
 ### ミドルウェア
-* MySQL
-* Couchbase
-* Cassandra
-* Redis
+* 基本的な知識のみあり (データベース構築および運用経験はなし)
+  * MySQL
+  * Couchbase
+  * Cassandra
+* 運用経験あり
+  * Redis (ElastiCache)
 
-### モニタリング
-* New Relic
-* Datadog
-* Zabbix
+### ロギング・モニタリング
+* サーバー監視およびアプリケーション監視の構築とオンコール対応
+  * New Relic
+  * Datadog
+  * Zabbix
+  * ElasticSearch
+  * Fluentd
+  * Sentry
 
 ### インフラ
 * AWS
-  * ALBやEC2、ElastiCacheなどを使用したアプリケーション構築
-  * Kinesis FirehoseとElasticSearch Serviceを使用したログ基盤構築
-  * CloudFormationを使用したInfrastructure as Codeの実践
+  * ALBやEC2、ElastiCacheなどを利用したWebアプリケーションの構築と運用
+  * API GatewayやLambdaを利用したサーバーレスアプリケーションの構築と運用
+  * CloudFrontやS3を利用した静的サイトの構築
+  * Kinesis FirehoseとElasticSearch Serviceを利用したログ基盤構築
+  * CloudFormationやTerraformを利用したInfrastructure as Codeの実践
 
 ### その他
-* CircleCI
-* Jenkins
-* Git
-* Sentry
+* アプリケーションのビルド・デプロイフロー構築と運用
+  * CircleCI
+  * GitHub Actions
+* 基本的な操作は可能
+  * Git
+  * Shell
+* 保守・運用のみ
+  * Jenkins

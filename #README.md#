@@ -1,0 +1,132 @@
+# ’¿¦’Ì³’·Ð’Îò’½ñ
+|key|value|
+|---|-----|
+|Name|’¾¾’²¼ ’·ò’ÂÀ’Ïº|
+|GitHub|[kentaro-m \(Kentaro Matsushita\)](https://github.com/kentaro-m)|
+|SpeakerDeck|[Kentaro Matsushita](https://speakerdeck.com/kentarom)|
+|Qiita|[kentaro_m \- Qiita](https://qiita.com/kentaro_m)|
+|Twitter|[@_kentaro_m](https://twitter.com/_kentaro_m)|
+|Portfolio|[Kentaro Matsushita - @kentaro-m](https://kentarom.com/)|
+|Contact|Twitter’¤ÎDM’¤Ç’Ï¢’Íí’²Ä|
+
+## ’¿¦’Ì³’·Ð’Îò
+
+### ’¹ç’Æ±’²ñ’¼ÒEXNOA (’Àµ’¼Ò’°÷: 2019/07/11 ~ ’¸½’¿¦)
+
+#### ’ÀÅ’Åª’¥µ’¥¤’¥È’´ð’È×’¿·’µ¬’³«’È¯
+* ’»þ’´ü: 2020/02’¡Á
+* ’Ìò’³ä: ’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’¥¨’¥ó’¥¸’¥Ë’¥¢/’¥¹’¥¯’¥é’¥à’¥Þ’¥¹’¥¿’¡¼
+
+’¥é’¥ó’¥Ç’¥£’¥ó’¥°’¥Ú’¡¼’¥¸’¤Î’¥Û’¥¹’¥Æ’¥£’¥ó’¥°’¤ò’¹Ô’¤¦’´ð’È×’³«’È¯’¤Ë’½¾’»ö’¡£’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’¥¨’¥ó’¥¸’¥Ë’¥¢’¤È’¤·’¤Æ’¡¢CloudFront’¤ÈS3’¤ò’Íø’ÍÑ’¤·’¤¿’ÀÅ’Åª’¥µ’¥¤’¥È’¥Û’¥¹’¥Æ’¥£’¥ó’¥°’´Ä’¶­’¤Î’¹½’ÃÛ’¡¢GitHub Actions’¤ò’Íø’ÍÑ’¤·’¤¿’¥Ó’¥ë’¥É’¡¦’¥Ç’¥×’¥í’¥¤’¥Õ’¥í’¡¼’¤Î’À°’È÷’¤ò’Ã´’Åö’¡£’¤Þ’¤¿’¡¢’¥¹’¥¯’¥é’¥à’¥Þ’¥¹’¥¿’¡¼’¤È’¤·’¤Æ’¡¢’³«’È¯’¥Á’¡¼’¥à’¤¬’±ß’³ê’¤Ë’³«’È¯’¤¬’¿Ê’¹Ô’¤Ç’¤­’¤ë’¤è’¤¦’¤Ë’¡¢’¥¹’¥¯’¥é’¥à’¥¤’¥Ù’¥ó’¥È’¤Î’¥Õ’¥¡’¥·’¥ê’¥Æ’¡¼’¥·’¥ç’¥ó’¤ä’µ»’½Ñ’Åª’¤Ê’¾ã’ÊÉ
+
+#### ’¥²’¡¼’¥à’¥×’¥é’¥Ã’¥È’¥Õ’¥©’¡¼’¥à’¿·’µ¬’³«’È¯
+* ’»þ’´ü: 2019/07’¡Á2020/02
+* ’Ìò’³ä: ’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’¥¨’¥ó’¥¸’¥Ë’¥¢
+
+’¥²’¡¼’¥à’¥×’¥é’¥Ã’¥È’¥Õ’¥©’¡¼’¥à’¤Î’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’³«’È¯’¤Ë’½¾’»ö’¡£’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’¥¨’¥ó’¥¸’¥Ë’¥¢’¤È’¤·’¤Æ’¡¢’´É’³í’µ¡’Ç½’¤Î’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’¤Î’Í×’·ï’Äê’µÁ’¤ä’Àß’·×’¡¢React.js’¤äTypeScript’¹½’À®’¤Î’¼Â’Áõ’¤ò’Ã´’Åö’¡£’¤Þ’¤¿’¡¢’µ¡’Ç½’¥Á’¡¼’¥à’Æâ’¤Î’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’¥Á’¡¼’¥à’¤Î’¤Þ’¤È’¤á’Ìò’¤È’¤·’¤Æ’¡¢’¥×’¥í’¥¸’¥§’¥¯’¥È’¤Î’¿Ê’Ä½’´É’Íý’¤ä’¥á’¥ó’¥Ð’¡¼’¤«’¤é’¤Î’Áê’ÃÌ’ÂÐ’±þ’¤ä’Â¾’¿¦’Ç½’¤È’¤Î’Ï¢’·È’¤Î’Ìò’³ä’¤ò’Ã´’¤Ã’¤¿’¡£
+
+### ’¹ç’Æ±’²ñ’¼ÒDMM.com (’Àµ’¼Ò’°÷: 2016/04/01 ~ 2019/07/10)
+
+#### ’¥×’¥é’¥Ã’¥È’¥Õ’¥©’¡¼’¥à’¥ê’¥×’¥ì’¥¤’¥¹’³«’È¯’µÚ’¤Ó’±¿’ÍÑ
+* ’»þ’´ü: 2016/07’¡Á2019/07
+* ’Ìò’³ä: ’¥µ’¡¼’¥Ð’¡¼’¥µ’¥¤’¥É’¥¨’¥ó’¥¸’¥Ë’¥¢
+
+’Ç§’¾Ú’´ð’È×’¥·’¥¹’¥Æ’¥à’¤Î’¥ê’¥×’¥ì’¥¤’¥¹’¤Ë’½¾’»ö’¡£Web’¥¢’¥×’¥ê’¥±’¡¼’¥·’¥ç’¥ó’¥¨’¥ó’¥¸’¥Ë’¥¢’¤È’¤·’¤Æ’¡¢Node.js’µÚ’¤ÓReact.js’¹½’À®’¤Ç’¤Î’¥Õ’¥í’¥ó’¥È’¥¨’¥ó’¥É’³«’È¯’¤äAWS’¤Î’¥¤’¥ó’¥Õ’¥é’¹½’ÃÛ’¡¢Java’¤Ç’¹½’ÃÛ’¤µ’¤ì’¤¿API’²þ’½¤’¤Ê’¤É’¤ò’Ã´’Åö’¡£’¤Þ’¤¿’¡¢Infrastructure as Code’¤Î’À°’È÷’¡¢CI/CD’¥Ñ’¥¤’¥×’¥é’¥¤’¥ó’À°’È÷’¡¢’´Æ’»ë’¥Ä’¡¼’¥ë’Æ³’Æþ’¤Ê’¤É’³«’È¯’¤ä’±¿’ÍÑ’¤ò’¸ú’Î¨’²½’¤¹’¤ë’»Å’ÁÈ’¤ß’ºî’¤ê’¤â’¤¢’¤ï’¤»’¤Æ’¼Â’»Ü’¤·’¤¿’¡£
+
+## ’ÅÐ’ÃÅ’Îò
+|Date|Event|Content|
+|----|-----|-------|
+|2020/04/25|[Kanazawa.js Remote Meetup #02](https://speakerdeck.com/kentarom/lets-try-visualizing-your-activity-using-the-github-gist)|[GitHub Gist’¤ò’»È’¤Ã’¤Æ’¡¢’¥¢’¥¯’¥Æ’¥£’¥Ó’¥Æ’¥£’¤ò’²Ä’»ë’²½’¤·’¤è’¤¦](https://speakerdeck.com/kentarom/lets-try-visualizing-your-activity-using-the-github-gist)|
+|2020/01/19|[Kanazawa.js Meetup #01](https://kanazawajs.connpass.com/event/161078/)|[OGP’²è’Áü’¤ò’À¸’À®’¤¹’¤ëNode.js’¤Î’¥é’¥¤’¥Õœò¾ù’¥é’¥ê’¤ò’ºî’¤Ã’¤Æ’¤ß’¤¿](https://speakerdeck.com/kentarom/create-a-node-dot-js-module-for-generating-open-graph-image)|
+|2018/11/23|JAWS-UG’¶â’Âô #36 x OpsJAWS’¡ª AWS’±¿’ÍÑ’¡¦’´Æ’»ë’¤Ë’¤Ä’¤¤’¤Æ’¤Î’¥¯’¥í’¥¹’¥¤’¥Ù’¥ó’¥È’¡ª|[AWS’¤Î’´û’Â¸’¥µ’¡¼’¥Ó’¥¹’¤ò’³è’ÍÑ’¤·’¤Æ’¡¢ ’¾ã’³²’¸¡’ÃÎ’¡¦’Éü’µì’¤ò’¿×’Â®’²½’¤¹’¤ë’¥«’¥é’¥¯’¥ê](https://speakerdeck.com/kentarom/jaws-ug-kanazawa-x-opsjaws)|
+OB|2018/10/31|AWS Dev Day Tokyo 2018 LT’Âç’²ñ|[DMM.com’¤Î’Ç§’¾Ú’´ð’È×’¤ò’»Ù’¤¨’¤ë’¥¨’¥é’¡¼’ÄÌ’ÃÎ’¤Î’»Å’ÁÈ’¤ß](https://speakerdeck.com/kentarom/aws-dev-day-tokyo-2018-lightning-talk)|
+|2017/09/16|GitHub’ÊÙ’¶¯’²ñ in Kanazawa|[GitHub’¤Æœò¾ù’¤Î’¥Õœò¾ú’¥ë’¥ê’¥¯’¥¨’¥¹’¥È’¥ì’¥Òœò¾ù’¥å’¡¼’¤ò’²Ã’Â®’¤¹’¤ë’¤¿’¤á’¤Ë’¤¤’¤í’¤¤’¤í’¤È’ºî’¤Ã’¤¿’ÏÃ](https://speakerdeck.com/kentarom/githubtefalsehururikuesutorehiyuwojia-su-surutameniiroirotozuo-tutahua)|
+
+## ’¥³’¥ß’¥å’¥Ë’¥Æ’¥£
+
+### Kanazawa.js
+’¶â’Âô’¶á’¹Ù’¤ÎJSer’¤Î’¤¿’¤á’¤Î’ÃÏ’°è’¥³’¥ß’¥å’¥Ë’¥Æ’¥£’¤ò’Í­’»Ö’¤Ç’±¿’±Ä’¤·’¤Æ’¤¤’¤Þ’¤¹’¡£
+
+- [Kanazawa.js Remote Meetup 2’¤ò’³«’ºÅ’¤·’¤Þ’¤·’¤¿ | Learn Something New](https://blog.kentarom.com/we-have-held-kanazawa-js-remote-meetup-2/)
+- [Kanazawa.js meetup 1’¤ò’³«’ºÅ’¤·’¤Þ’¤·’¤¿ | Learn Something New](https://blog.kentarom.com/we-have-held-kanazawa-js-meetup-1/)
+
+
+## ’¥Ö’¥í’¥°
+* [’µ»’½Ñ’½ñ’¤Î’ÎØ’ÆÉ’²ñ’¤ò’Äê’Ãå’¤µ’¤»’¤ë’¤Þ’¤Ç’¤Î’Æ»’¤Î’¤ê’¤Ç’³Ø’¤ó’¤À’¤³’¤È - DMM inside](https://inside.dmm.com/entry/2018/10/02/rindokukai)
+* [Go’¸À’¸ì’½é’³Ø’¼Ô’¤¬Confluence’¤òMarkdown’¤Ç’½ñ’¤¯’¤¿’¤á’¤ÎCLI’¥Ä’¡¼’¥ë’¤ò’³«’È¯’¤·’¤¿’ÏÃ - DMM inside](https://inside.dmm.com/entry/2018/05/28/golang-cli-tool)
+
+## OSS
+* [kentaro-m/catchy-image: A Node.js module for dynamically generating Open Graph images.](https://github.com/kentaro-m/catchy-image)
+  * ’¥Æ’¥­’¥¹’¥È’¥Ç’¡¼’¥¿’¤«’¤éSNS’¸þ’¤±’¤ÎOGP’²è’Áü’¤ò’Æ°’Åª’À¸’À®’¤¹’¤ëNode.js’¥â’¥¸’¥å’¡¼’¥ë’¤Ç’¤¹’¡£
+* [kentaro-m/add-an-issue-reference-action: A GitHub Action for adding a related issue reference to a pull request.](https://github.com/kentaro-m/add-an-issue-reference-action)
+  * ’¥Ö’¥é’¥ó’¥Á’Ì¾’¤ò’¸µ’¤ËPull Request’¤Ë’ÆÃ’Äê’¤ÎIssue’¤Î’¥ê’¥ó’¥¯’¤ò’¼«’Æ°’ÄÉ’²Ã’¤¹’¤ëGitHub Action’¤Ç’¤¹’¡£
+* [kentaro-m/task-completed-checker-action: A GitHub action that checks if all tasks are completed in the pull requests.](https://github.com/kentaro-m/task-completed-checker-action)
+  * Pull Request’¤Î’¥¿’¥¹’¥¯’¥ê’¥¹’¥È’¤¬’¤¹’¤Ù’¤Æ’´°’Î»’¤·’¤Æ’¤¤’¤ë’¤«’¤ò’¥Á’¥§’¥Ã’¥¯’¤¹’¤ëGitHub Action’¤Ç’¤¹’¡£
+* [kentaro-m/auto-assign-action: An action which adds reviewers to the pull request when the pull request is opened.](https://github.com/kentaro-m/auto-assign-action)
+  * GitHub’¤Î’¥×’¥ë’¥ê’¥¯’¥¨’¥¹’¥È’¤Ë’¥ì’¥Ó’¥å’¥¢’¡¼’¤ò’¼«’Æ°’ÄÉ’²Ã’¤¹’¤ëGitHub Action’¤Ç’¤¹’¡£
+* [kentaro-m/auto-assign: A Probot app that adds reviewers to pull requests when pull requests are opened.](https://github.com/kentaro-m/auto-assign)
+  * GitHub’¤Î’¥×’¥ë’¥ê’¥¯’¥¨’¥¹’¥È’¤Ë’¥ì’¥Ó’¥å’¥¢’¡¼’¤ò’¼«’Æ°’ÄÉ’²Ã’¤¹’¤ëGitHub Apps’¤Ç’¤¹’¡£
+* [kentaro-m/md2confl: md2confl is a CLI tool to convert the markdown text to confluence wiki format.](https://github.com/kentaro-m/md2confl)
+  * ’¥Þ’¡¼’¥¯’¥À’¥¦’¥ó’Ê¸’½ñ’¤òAtlassian’¤ÎConfluence’µ­’Ë¡’¤Ë’ÊÑ’´¹’¤¹’¤ë’¤¿’¤á’¤ÎCLI’¥Ä’¡¼’¥ë’¤Ç’¤¹’¡£
+* [kentaro-m/blackfriday-confluence: Blackfriday-Confluence is confluence wiki renderer for the Blackfriday v2 markdown processor.](https://github.com/kentaro-m/blackfriday-confluence)
+  * Go’¤Î’¥Þ’¡¼’¥¯’¥À’¥¦’¥ó’¥×’¥í’¥»’¥Ã’¥µ’¡¼’¡ÖBlackfriday’¡×’¤ÇConfluence’µ­’Ë¡’¤ò’½Ð’ÎÏ’¤¹’¤ë’¥é’¥¤’¥Ö’¥é’¥ê’¤Ç’¤¹’¡£
+* [kentaro-m/coverage-markers: Atom package to display JavaScript test coverage on gutter of editor.](https://github.com/kentaro-m/coverage-markers)
+  * JavaScript’¤Î’¥×’¥í’¥¸’¥§’¥¯’¥È’¤Î’¥Æ’¥¹’¥È’¥«’¥Ð’¥ì’¥Ã’¥¸’¤òAtom’¥¨’¥Ç’¥£’¥¿’¤Ë’É½’¼¨’¤¹’¤ë’¥Ñ’¥Ã’¥±’¡¼’¥¸’¤Ç’¤¹’¡£
+* [kentaro-m/mkissue: Create GitHub issues from importing CSV file.](https://github.com/kentaro-m/mkissue)
+  * CSV’¥Õ’¥¡’¥¤’¥ë’¤«’¤éGitHub Issue’¤ò’ºî’À®’¤¹’¤ëCLI’¥Ä’¡¼’¥ë’¤Ç’¤¹’¡£
+
+## ’¥¹’¥­’¥ë’¡¦’·Ð’¸³
+
+### ’¸À’¸ì
+* ’¥×’¥í’¥À’¥¯’¥·’¥ç’¥ó’¥³’¡¼’¥É’¤ò’½ñ’¤¤’¤¿’·Ð’¸³’¤¬’¤¢’¤ë’¸À’¸ì
+  * Node.js
+  * Java
+  * PHP
+  * JavaScript
+  * TypeScript
+* ’¥×’¥é’¥¤’¥Ù’¡¼’¥È’¤Ç’½ñ’¤¤’¤Æ’¤¤’¤ë’¸À’¸ì
+  * Go
+
+### ’¥Õ’¥ì’¡¼’¥à’¥ï’¡¼’¥¯
+* ’¥æ’¡¼’¥¶’¡¼’¸þ’¤±’¤ÎWeb’¥¢’¥×’¥ê’¥±’¡¼’¥·’¥ç’¥ó’¹½’ÃÛ’¤È’±¿’ÍÑ
+  * Express.js
+  * React.js
+* API’ÊÝ’¼é’¡¦’±¿’ÍÑ
+  * Spring Framework
+* ’¥Ý’¡¼’¥È’¥Õ’¥©’¥ê’¥ª’¥µ’¥¤’¥È’¤ä’¥Ö’¥í’¥°’¤Î’¹½’ÃÛ
+  * GatsbyJS
+
+### ’¥ß’¥É’¥ë’¥¦’¥§’¥¢
+* ’´ð’ËÜ’Åª’¤Ê’ÃÎ’¼±’¤Î’¤ß’¤¢’¤ê (’¥Ç’¡¼’¥¿’¥Ù’¡¼’¥¹’¹½’ÃÛ’¤ª’¤è’¤Ó’±¿’ÍÑ’·Ð’¸³’¤Ï’¤Ê’¤·)
+  * MySQL
+  * Couchbase
+  * Cassandra
+* ’±¿’ÍÑ’·Ð’¸³’¤¢’¤ê
+  * Redis (ElastiCache)
+
+### ’¥í’¥®’¥ó’¥°’¡¦’¥â’¥Ë’¥¿’¥ê’¥ó’¥°
+* ’¥µ’¡¼’¥Ð’¡¼’´Æ’»ë’¤ª’¤è’¤Ó’¥¢’¥×’¥ê’¥±’¡¼’¥·’¥ç’¥ó’´Æ’»ë’¤Î’¹½’ÃÛ’¤È’¥ª’¥ó’¥³’¡¼’¥ë’ÂÐ’±þ
+  * New Relic
+  * Datadog
+  * Zabbix
+  * ElasticSearch
+  * Fluentd
+  * Sentry
+
+### ’¥¤’¥ó’¥Õ’¥é
+* AWS
+  * ALB’¤äEC2’¡¢ElastiCache’¤Ê’¤É’¤ò’Íø’ÍÑ’¤·’¤¿Web’¥¢’¥×’¥ê’¥±’¡¼’¥·’¥ç’¥ó’¤Î’¹½’ÃÛ’¤È’±¿’ÍÑ
+  * API Gateway’¤äLambda’¤ò’Íø’ÍÑ’¤·’¤¿’¥µ’¡¼’¥Ð’¡¼’¥ì’¥¹’¥¢’¥×’¥ê’¥±’¡¼’¥·’¥ç’¥ó’¤Î’¹½’ÃÛ’¤È’±¿’ÍÑ
+  * CloudFront’¤äS3’¤ò’Íø’ÍÑ’¤·’¤¿’ÀÅ’Åª’¥µ’¥¤’¥È’¤Î’¹½’ÃÛ
+  * Kinesis Firehose’¤ÈElasticSearch Service’¤ò’Íø’ÍÑ’¤·’¤¿’¥í’¥°’´ð’È×’¹½’ÃÛ
+  * CloudFormation’¤äTerraform’¤ò’Íø’ÍÑ’¤·’¤¿Infrastructure as Code’¤Î’¼Â’Á©
+
+### ’¤½’¤Î’Â¾
+* ’¥¢’¥×’¥ê’¥±’¡¼’¥·’¥ç’¥ó’¤Î’¥Ó’¥ë’¥É’¡¦’¥Ç’¥×’¥í’¥¤’¥Õ’¥í’¡¼’¹½’ÃÛ’¤È’±¿’ÍÑ
+  * CircleCI
+  * GitHub Actions
+* ’´ð’ËÜ’Åª’¤Ê’Áà’ºî’¤Ï’²Ä’Ç½
+  * Git
+  * Shell
+* ’ÊÝ’¼é’¡¦’±¿’ÍÑ’¤Î’¤ß
+  * Jenkins
