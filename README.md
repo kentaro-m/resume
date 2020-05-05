@@ -7,7 +7,7 @@
 |Qiita|[kentaro_m \- Qiita](https://qiita.com/kentaro_m)|
 |Twitter|[@_kentaro_m](https://twitter.com/_kentaro_m)|
 |Portfolio|[Kentaro Matsushita - @kentaro-m](https://kentarom.com/)|
-|Mail|kentaro.m811@gmail.com|
+|Contact|TwitterのDMで連絡可|
 
 ## 職務経歴
 
