@@ -56,22 +56,24 @@
 * [Go言語初学者がConfluenceをMarkdownで書くためのCLIツールを開発した話 - DMM inside](https://inside.dmm.com/entry/2018/05/28/golang-cli-tool)
 
 ## OSS
-* [kentaro-m/auto-assign-action: 🤖 An action which adds reviewers to the pull request when the pull request is opened.](https://github.com/kentaro-m/auto-assign-action)
+* [kentaro-m/catchy-image: A Node.js module for dynamically generating Open Graph images.](https://github.com/kentaro-m/catchy-image)
+  * テキストデータからSNS向けのOGP画像を動的生成するNode.jsモジュールです。
+* [kentaro-m/add-an-issue-reference-action: A GitHub Action for adding a related issue reference to a pull request.](https://github.com/kentaro-m/add-an-issue-reference-action)
+  * ブランチ名を元にPull Requestに特定のIssueのリンクを自動追加するGitHub Actionです。
+* [kentaro-m/task-completed-checker-action: A GitHub action that checks if all tasks are completed in the pull requests.](https://github.com/kentaro-m/task-completed-checker-action)
+  * Pull Requestのタスクリストがすべて完了しているかをチェックするGitHub Actionです。
+* [kentaro-m/auto-assign-action: An action which adds reviewers to the pull request when the pull request is opened.](https://github.com/kentaro-m/auto-assign-action)
   * GitHubのプルリクエストにレビュアーを自動追加するGitHub Actionです。
-* [kentaro-m/mkissue: 🎫 Create GitHub issues from importing CSV file.](https://github.com/kentaro-m/mkissue)
-  * CSVファイルからGitHub Issueを作成するCLIツールです。
-* [kentaro-m/auto-assign: 🤖 A Probot app that adds reviewers to pull requests when pull requests are opened.](https://github.com/kentaro-m/auto-assign)
+* [kentaro-m/auto-assign: A Probot app that adds reviewers to pull requests when pull requests are opened.](https://github.com/kentaro-m/auto-assign)
   * GitHubのプルリクエストにレビュアーを自動追加するGitHub Appsです。
-* [kentaro-m/md2confl: 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.](https://github.com/kentaro-m/md2confl)
+* [kentaro-m/md2confl: md2confl is a CLI tool to convert the markdown text to confluence wiki format.](https://github.com/kentaro-m/md2confl)
   * マークダウン文書をAtlassianのConfluence記法に変換するためのCLIツールです。
-* [kentaro-m/blackfriday-confluence: 🛠 Blackfriday-Confluence is confluence wiki renderer for the Blackfriday v2 markdown processor.](https://github.com/kentaro-m/blackfriday-confluence)
+* [kentaro-m/blackfriday-confluence: Blackfriday-Confluence is confluence wiki renderer for the Blackfriday v2 markdown processor.](https://github.com/kentaro-m/blackfriday-confluence)
   * Goのマークダウンプロセッサー「Blackfriday」でConfluence記法を出力するライブラリです。
-* [kentaro-m/coverage-markers: 📦 Atom package to display JavaScript test coverage on gutter of editor.](https://github.com/kentaro-m/coverage-markers)
+* [kentaro-m/coverage-markers: Atom package to display JavaScript test coverage on gutter of editor.](https://github.com/kentaro-m/coverage-markers)
   * JavaScriptのプロジェクトのテストカバレッジをAtomエディタに表示するパッケージです。
-* [kentaro-m/issue-creator: A Slack slash command for creating quickly a new issue on GitHub.](https://github.com/kentaro-m/issue-creator)
-  * SlackのSlashコマンドから素早くGitHub Issueを作るためのアプリケーションです。
-* [kentaro-m/zenhub-time-tracker: Keep track of time to move an issue between pipelines and notify the time into Slack.](https://github.com/kentaro-m/zenhub-time-tracker)
-  * IssueのZenHubパイプライン間の移動時間を計測・表示をするアプリケーションです。
+* [kentaro-m/mkissue: Create GitHub issues from importing CSV file.](https://github.com/kentaro-m/mkissue)
+  * CSVファイルからGitHub Issueを作成するCLIツールです。
 
 ## スキル・経験
 
